@@ -1,0 +1,29 @@
+For validation cost: 1.465125 accuracy 0.538200
+stddev=0.1
+5x5,20 5x5,40 5x5,60 
+128 64
+keep_prob = 1.0
+
+Epoch 19, CIFAR-10 Batch 1:  For training_batch cost: 0.211046 accuracy 0.950000
+For validation cost: 1.379532 accuracy 0.567000
+stddev=0.1
+5x5,20 5x5,40 5x5,60 
+128 64
+keep_prob = 0.75
+
+Epoch 17, CIFAR-10 Batch 1:  For training_batch cost: 0.277569 accuracy 0.975000
+For validation cost: 1.235567 accuracy 0.573600
+stddev=0.1
+5x5,20 5x5,40 5x5,60 
+128 64
+keep_prob = 0.85
+
+Epoch 19, CIFAR-10 Batch 1:  For training_batch cost: 0.493307 accuracy 0.825000
+For validation cost: 1.289819 accuracy 0.558400
+stddev=0.1
+Inception
+3x3 5 3x3 10 3x3 20 
+5x5 5 5x5 10 5x5 20
+8x8 5 8x8 10 8x8 20
+128 64
+keep_prob = 0.75
